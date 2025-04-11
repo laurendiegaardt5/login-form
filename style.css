@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+   body{
+    color: #fff;
+    display: grid;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    background-color: cornflowerblue;
+    margin: 15px;
+    }
+    
+   #Fname {
+    margin-bottom: 40px;
+   }
+   #Lname {
+    margin-bottom: 60px;
+   }
+   #Email {
+    margin-bottom: 50px;
+   }
+   #Phone {
+    margin-bottom: 60px;
+   }
+   #Address {
+    margin-bottom: 40px;
+   }
+   button{
+    margin-top: 30px;
+   }
